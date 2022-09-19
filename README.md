@@ -1,4 +1,4 @@
-# DockerForLinuxDjangoMySQL
+# DockerForDjangoMySQL
 
 Thank you for checking in this repository.
 
